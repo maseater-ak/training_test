@@ -32,7 +32,6 @@ proud of you!
 ## Mariah Seater
 ### Doctor of Public Health 
 
-```{r}
-
-```
+- [Intro to Public Health](apha.org)
+- [Data in Public Health] (script/intro-quarto.html)
 

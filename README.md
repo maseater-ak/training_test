@@ -6,3 +6,6 @@ A test - learning git
 
 - practice git
 - have fun!
+- eat lunch, yum
+
+
