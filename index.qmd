@@ -24,3 +24,15 @@ You can add options to executable code like this
 ```
 
 The `echo: false` option disables the printing of code (only output is displayed).
+
+you are writing mark down 
+you are doing great
+proud of you!
+
+## Mariah Seater
+### Doctor of Public Health 
+
+```{r}
+
+```
+
